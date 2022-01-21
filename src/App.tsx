@@ -2,7 +2,7 @@
 
 function App() {
   return (
-   <h1>hi - ts</h1>
+   <h1>React + TypeScript</h1>
   );
 }
 
