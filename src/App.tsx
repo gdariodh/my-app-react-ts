@@ -3,6 +3,7 @@ import Usuario from "./components/Usuario";
 import TimerPadre from "./components/TimerPadre";
 import { ContadorRed } from "./components/useReducer/ContadorRed";
 import { Formulario } from "./components/Formulario";
+import { Formulario2 } from "./components/Formulario2";
 
 function App() {
   return (
@@ -37,6 +38,7 @@ function App() {
       <br />
       <br />
       <br />
+      <Formulario2 />
     </>
   );
 }
